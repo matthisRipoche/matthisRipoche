@@ -13,18 +13,18 @@
 🔹 Intéressé par le **déploiement et l'automatisation** (Docker, CI/CD, GitHub Actions)  
 
 ## 🛠 **Stack technique**  
-- **Backend** : Laravel, PHP, MySQL, PostgreSQL, API REST, Authentification (JWT, OAuth)  
-- **Frontend** : React.js, Vite, Tailwind CSS, Redux, Axios  
+- **Backend** : Laravel, PHP, MySQL
+- **Frontend** : React.js, Vite, Bootstrap CSS  
 - **Outils & DevOps** : Git, GitHub Actions, Linux  
 
 ## 📂 **Projets récents**  
-- [🔗 BallStats](https://github.com/matthisRipoche/ballstats) – Description rapide du projet (Laravel + React)  
+- [🔗 BallStats](https://github.com/matthisRipoche/ballstats) – Projet API Laravel en backend et React en frontend, permettant l'archivement de statistiques de sport permettant l'optimisation des compétences sportives.
 - [🔗 Nom du projet 2](https://github.com/tonrepo/projet2) – Une autre réalisation (ex : API Laravel + Frontend React)  
 
-## 📫 **Me contacter**  
-- 💼 LinkedIn : [Ton Profil](https://linkedin.com/in/tonprofil)  
-- 🌐 Portfolio : [ton-portfolio.com](https://ton-portfolio.com)  
-- 📧 Email : contact@tonmail.com  
+## 📫 **Me contacter**
+- 💼 LinkedIn : [Ton Profil](https://linkedin.com/in/tonprofil)
+- 🌐 Portfolio : [ton-portfolio.com](https://ton-portfolio.com)
+- 📧 Email : matthisripoche@gmail.com
 
 💡 **Toujours à la recherche de nouveaux défis et collaborations passionnantes !** 🚀
 
