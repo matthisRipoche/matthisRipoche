@@ -2,7 +2,32 @@
 
 ###
 
-<p align="left"></p>
+# 💻 **Développeur Web | Laravel & React**  
+
+👋 **Hello ! Je suis [Ton Nom]**, développeur web passionné spécialisé dans la création d'applications web modernes et performantes avec **Laravel** & **React**.  
+
+## 🚀 **À propos de moi**  
+🔹 Développeur full-stack avec une expertise en **PHP (Laravel)** et **JavaScript (React.js)**  
+🔹 Passionné par la **conception d'API RESTful**, l'optimisation des performances et l'expérience utilisateur  
+🔹 Expérience dans la **gestion de bases de données** (MySQL, PostgreSQL) et l’authentification (Sanctum, JWT)  
+🔹 Intéressé par le **déploiement et l'automatisation** (Docker, CI/CD, GitHub Actions)  
+
+## 🛠 **Stack technique**  
+- **Backend** : Laravel, PHP, MySQL, PostgreSQL, API REST, Authentification (JWT, OAuth)  
+- **Frontend** : React.js, Vite, Tailwind CSS, Redux, Axios  
+- **Outils & DevOps** : Git, Docker, CI/CD, GitHub Actions, Linux  
+
+## 📂 **Projets récents**  
+- [🔗 Nom du projet 1](https://github.com/tonrepo/projet1) – Description rapide du projet (Laravel + React)  
+- [🔗 Nom du projet 2](https://github.com/tonrepo/projet2) – Une autre réalisation (ex : API Laravel + Frontend React)  
+
+## 📫 **Me contacter**  
+- 💼 LinkedIn : [Ton Profil](https://linkedin.com/in/tonprofil)  
+- 🌐 Portfolio : [ton-portfolio.com](https://ton-portfolio.com)  
+- 📧 Email : contact@tonmail.com  
+
+💡 **Toujours à la recherche de nouveaux défis et collaborations passionnantes !** 🚀
+
 
 ###
 
