@@ -1,5 +1,3 @@
-<h2 align="left">Hi 👋! My name is Matthis.</h2>
-
 ###
 
 # 💻 **Développeur Web | Laravel & React**  
@@ -7,10 +5,9 @@
 👋 **Hello ! Je suis [Ton Nom]**, développeur web passionné spécialisé dans la création d'applications web modernes et performantes avec **Laravel** & **React**.  
 
 ## 🚀 **À propos de moi**  
-🔹 Développeur web Junior avec une expertise en **PHP (Laravel)** et **JavaScript (React.js)**  
+🔹 Développeur web Junior avec un intéret pour **PHP (Laravel)** et **JavaScript (React.js)**  
 🔹 Passionné par la **conception d'API RESTful**, l'optimisation des performances et l'expérience utilisateur  
-🔹 Expérience dans la **gestion de bases de données** (MySQL, PostgreSQL) et l’authentification (Sanctum, JWT)  
-🔹 Intéressé par le **déploiement et l'automatisation** (Docker, CI/CD, GitHub Actions)  
+🔹 Expérience dans la **gestion de bases de données** (MySQL)
 
 ## 🛠 **Stack technique**  
 - **Backend** : Laravel, PHP, MySQL
