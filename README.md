@@ -22,7 +22,7 @@
 - [🔗 Nom du projet 2](https://github.com/tonrepo/projet2) – Une autre réalisation (ex : API Laravel + Frontend React)  
 
 ## 📫 **Me contacter**
-- 💼 LinkedIn : [Ton Profil](https://www.linkedin.com/in/matthis-ripoche-919a771a6/)
+- 💼 LinkedIn : [https://www.linkedin.com/in/matthis-ripoche-919a771a6/](https://www.linkedin.com/in/matthis-ripoche-919a771a6/)
 - 🌐 Portfolio : [ton-portfolio.com](https://ton-portfolio.com)
 - 📧 Email : matthisripoche@gmail.com
 
