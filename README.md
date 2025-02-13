@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left"></p>
 
 ###
 
