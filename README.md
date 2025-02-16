@@ -7,7 +7,7 @@
 ## 🚀 **À propos de moi**  
 🔹 Développeur web Junior avec un intéret pour **PHP (Laravel)** et **JavaScript (React.js)**  
 🔹 Passionné par l'optimisation des performances et l'expérience utilisateur  
-🔹 Expérience dans la **gestion de bases de données** (MySQL) et la conception d'**API Restful**
+🔹 Expérience dans la **gestion de bases de données** (MySQL) et la conception d'**API Restful** (Laravel)
 
 ## 🛠 **Stack technique**  
 - **Backend** : Laravel, PHP, MySQL
