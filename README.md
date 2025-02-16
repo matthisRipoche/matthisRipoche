@@ -2,12 +2,12 @@
 
 # 💻 **Développeur Web | Laravel & React**  
 
-👋 **Hello ! Je suis [Ton Nom]**, développeur web passionné spécialisé dans la création d'applications web modernes et performantes avec **Laravel** & **React**.  
+👋 **Hello ! Je suis Matthis Ripoche**, développeur web passionné spécialisé dans la création d'applications web modernes et performantes avec **Laravel** & **React**.  
 
 ## 🚀 **À propos de moi**  
 🔹 Développeur web Junior avec un intéret pour **PHP (Laravel)** et **JavaScript (React.js)**  
-🔹 Passionné par la **conception d'API RESTful**, l'optimisation des performances et l'expérience utilisateur  
-🔹 Expérience dans la **gestion de bases de données** (MySQL)
+🔹 Passionné par l'optimisation des performances et l'expérience utilisateur  
+🔹 Expérience dans la **gestion de bases de données** (MySQL) et la conception d'**API Restful**
 
 ## 🛠 **Stack technique**  
 - **Backend** : Laravel, PHP, MySQL
