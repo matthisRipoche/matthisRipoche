@@ -15,10 +15,6 @@
 - **Frontend** : React.js, Vite, Bootstrap CSS  
 - **Outils & DevOps** : Git, GitHub Actions, Linux  
 
-## 📂 **Projets récents**  
-- [🔗 BallStats](https://github.com/matthisRipoche/ballstats) – Projet API Laravel en backend et React en frontend, permettant l'archivement de statistiques de sport permettant l'optimisation des compétences sportives.
-- [🔗 Nom du projet 2](https://github.com/tonrepo/projet2) – Une autre réalisation (ex : API Laravel + Frontend React)  
-
 ## 📫 **Me contacter**
 - 💼 LinkedIn : [https://www.linkedin.com/in/matthis-ripoche-919a771a6/](https://www.linkedin.com/in/matthis-ripoche-919a771a6/)
 - 🌐 Portfolio : [ton-portfolio.com](https://ton-portfolio.com)
