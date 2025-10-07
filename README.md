@@ -17,7 +17,6 @@
 
 ## 📫 **Me contacter**
 - 💼 LinkedIn : [https://www.linkedin.com/in/matthis-ripoche-919a771a6/](https://www.linkedin.com/in/matthis-ripoche-919a771a6/)
-- 🌐 Portfolio : [ton-portfolio.com](https://ton-portfolio.com)
 - 📧 Email : matthisripoche@gmail.com
 
 💡 **Toujours à la recherche de nouveaux défis et collaborations passionnantes !** 🚀
