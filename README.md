@@ -5,29 +5,22 @@
 👋 **Hello !** Je suis un développeur passionné par les architectures d'entreprise. Je me spécialise dans la création d'applications web performantes et scalables en utilisant **Java / Spring Boot** pour le backend et **Angular** pour le frontend.
 
 ## 🚀 **Focus Actuel**
-- ☕ **Backend** : Conception d'API REST sécurisées et robustes avec **Spring Boot** & **Spring Security**.
+- ☕ **Backend** : Conception d'API REST robustes avec **Spring Boot** & **Spring Security**.
 - 🅰️ **Frontend** : Développement d'interfaces réactives et modulaires avec **Angular** (TypeScript).
 - 🏗️ **Architecture** : Mise en place de microservices et gestion de bases de données relationnelles (**PostgreSQL**, **MySQL**).
-- 🛡️ **Qualité** : Automatisation des tests E2E avec **Playwright**.
 
 ## 🛠 **Stack Technique Prioritaire**
 | Domaine | Technologies |
 | :--- | :--- |
 | **Backend** | **Java**, **Spring Boot**, Hibernate/JPA, Maven |
-| **Frontend** | **Angular**, TypeScript, RXJS, SCSS |
-| **Base de données** | PostgreSQL, MySQL, H2 |
+| **Frontend** | **Angular**, TypeScript, SCSS |
+| **Base de données** | PostgreSQL, MySQL |
 | **DevOps** | Docker, Git, Linux, Bash |
 
 ## 📂 **Projets Phares Java / Angular**
-- 🛡️ **Ace-it** : Application complète utilisant une architecture Java au backend et un frontend TypeScript/Angular.
-- 📋 **Angular To-Do List** : Gestionnaire de tâches avancé pour maîtriser le cycle de vie des composants et les services Angular.
-- ⚡ **TP-Angular** : Exploration approfondie des fonctionnalités d'Angular (Routing, Observables).
-
-## 📊 **GitHub Stats**
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=matthisRipoche&show_icons=true&theme=dracula&count_private=true" height="170" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matthisRipoche&layout=compact&theme=dracula&langs_count=6" height="170" alt="languages graph" />
-</div>
+- 🛡️ **Ace-it** : Application en développement utilisant une architecture Java au backend et un frontend TypeScript/Angular.
+- ⚡ **TP-Angular** : Gestionnaire de cartes Pokemon en utilisant des fonctionnalités plus approfondi d'Angular (Routing, Observables).
+- 📋 **Angular To-Do List** : Gestionnaire de tâches pour apprendre le cycle de vie des composants et les services Angular.
 
 ## 📫 **Me contacter**
 <div align="center">
